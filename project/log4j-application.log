@@ -1,0 +1,2229 @@
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G1 Best fitness: 0.07692307692307693
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G2 Best fitness: 0.125
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G3 Best fitness: 0.125
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G4 Best fitness: 0.125
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G5 Best fitness: 0.125
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G6 Best fitness: 0.125
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G7 Best fitness: 0.125
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G8 Best fitness: 0.14285714285714285
+2018-04-15 04:09:02 INFO  ScheduleGA:39 - G9 Best fitness: 0.14285714285714285
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G10 Best fitness: 0.14285714285714285
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G11 Best fitness: 0.14285714285714285
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G12 Best fitness: 0.14285714285714285
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G13 Best fitness: 0.14285714285714285
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G14 Best fitness: 0.14285714285714285
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G15 Best fitness: 0.16666666666666666
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G16 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G17 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G18 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G19 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G20 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G21 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G22 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G23 Best fitness: 0.2
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G24 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G25 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G26 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G27 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G28 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G29 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G30 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G31 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G32 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G33 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G34 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G35 Best fitness: 0.25
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G36 Best fitness: 0.3333333333333333
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G37 Best fitness: 0.3333333333333333
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G38 Best fitness: 0.3333333333333333
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G39 Best fitness: 0.3333333333333333
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G40 Best fitness: 0.3333333333333333
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G41 Best fitness: 0.3333333333333333
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G42 Best fitness: 0.3333333333333333
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G43 Best fitness: 0.5
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G44 Best fitness: 0.5
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G45 Best fitness: 0.5
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G46 Best fitness: 0.5
+2018-04-15 04:09:03 INFO  ScheduleGA:39 - G47 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G48 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G49 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G50 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G51 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G52 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G53 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G54 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G55 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G56 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G57 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G58 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G59 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G60 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G61 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G62 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G63 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G64 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G65 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G66 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G67 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G68 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G69 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G70 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G71 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G72 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G73 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G74 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G75 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G76 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G77 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G78 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G79 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G80 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G81 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G82 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G83 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G84 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G85 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G86 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G87 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G88 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G89 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G90 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G91 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G92 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G93 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G94 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G95 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G96 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G97 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G98 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G99 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G100 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G101 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G102 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G103 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G104 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G105 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G106 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G107 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G108 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G109 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G110 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G111 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G112 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G113 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G114 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G115 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G116 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G117 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G118 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G119 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G120 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G121 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G122 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G123 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G124 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G125 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G126 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G127 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G128 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G129 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G130 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G131 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G132 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G133 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G134 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G135 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G136 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G137 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G138 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G139 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G140 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G141 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G142 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G143 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G144 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G145 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G146 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G147 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G148 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G149 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G150 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G151 Best fitness: 0.5
+2018-04-15 04:09:04 INFO  ScheduleGA:39 - G152 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G153 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G154 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G155 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G156 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G157 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G158 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G159 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G160 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G161 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G162 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G163 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G164 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G165 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G166 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G167 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G168 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G169 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G170 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G171 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G172 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G173 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G174 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G175 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G176 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G177 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G178 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G179 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G180 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G181 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G182 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G183 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G184 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G185 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G186 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G187 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G188 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G189 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G190 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G191 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G192 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G193 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G194 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G195 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G196 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G197 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G198 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G199 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G200 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G201 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G202 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G203 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G204 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G205 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G206 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G207 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G208 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G209 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G210 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G211 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G212 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G213 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G214 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G215 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G216 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G217 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G218 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G219 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G220 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G221 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G222 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G223 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G224 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G225 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G226 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G227 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G228 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G229 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G230 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:39 - G231 Best fitness: 0.5
+2018-04-15 04:09:05 INFO  ScheduleGA:56 - 
+2018-04-15 04:09:05 INFO  ScheduleGA:57 - Schedule found after 232 generations
+2018-04-15 04:09:05 INFO  ScheduleGA:58 - Fitness of final Schedule: 1.0
+2018-04-15 04:09:05 INFO  ScheduleGA:59 - Conflict: 0
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 1:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 2:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 3:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 4:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 5:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 6:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 7:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 8:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 9:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 10:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 11:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Monday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 12:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 13:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 14:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 15:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 16:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 17:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 18:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 19:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 20:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 21:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 22:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 23:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 24:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 25:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:09:05 INFO  ScheduleGA:74 - Class 26:
+2018-04-15 04:09:05 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:09:05 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:09:05 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:09:05 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:09:05 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:09:05 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G1 Best fitness: 0.08333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G2 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G3 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G4 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G5 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G6 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G7 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G8 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G9 Best fitness: 0.14285714285714285
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G10 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G11 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G12 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G13 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G14 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G15 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G16 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G17 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G18 Best fitness: 0.2
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G19 Best fitness: 0.25
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G20 Best fitness: 0.25
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G21 Best fitness: 0.25
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G22 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G23 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G24 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G25 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G26 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G27 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G28 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G29 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:39 - G30 Best fitness: 0.3333333333333333
+2018-04-15 04:26:01 INFO  ScheduleGA:56 - 
+2018-04-15 04:26:01 INFO  ScheduleGA:57 - Schedule found after 31 generations
+2018-04-15 04:26:01 INFO  ScheduleGA:58 - Fitness of final Schedule: 1.0
+2018-04-15 04:26:01 INFO  ScheduleGA:59 - Conflict: 0
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 1:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 2:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 3:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 4:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 5:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 6:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 7:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 8:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 9:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 10:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 11:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 12:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 13:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 14:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 15:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 16:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 17:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 18:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 19:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 20:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 21:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 22:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 23:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 24:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 25:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:01 INFO  ScheduleGA:74 - Class 26:
+2018-04-15 04:26:01 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:01 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:26:01 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:01 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:01 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:26:01 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G1 Best fitness: 0.08333333333333333
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G2 Best fitness: 0.1
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G3 Best fitness: 0.1111111111111111
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G4 Best fitness: 0.1111111111111111
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G5 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G6 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G7 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G8 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G9 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G10 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G11 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G12 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G13 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G14 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G15 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G16 Best fitness: 0.14285714285714285
+2018-04-15 04:26:27 INFO  ScheduleGA:39 - G17 Best fitness: 0.14285714285714285
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G18 Best fitness: 0.14285714285714285
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G19 Best fitness: 0.14285714285714285
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G20 Best fitness: 0.14285714285714285
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G21 Best fitness: 0.16666666666666666
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G22 Best fitness: 0.16666666666666666
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G23 Best fitness: 0.16666666666666666
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G24 Best fitness: 0.16666666666666666
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G25 Best fitness: 0.2
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G26 Best fitness: 0.2
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G27 Best fitness: 0.2
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G28 Best fitness: 0.2
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G29 Best fitness: 0.2
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G30 Best fitness: 0.25
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G31 Best fitness: 0.25
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G32 Best fitness: 0.25
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G33 Best fitness: 0.25
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G34 Best fitness: 0.25
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G35 Best fitness: 0.3333333333333333
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G36 Best fitness: 0.3333333333333333
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G37 Best fitness: 0.3333333333333333
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G38 Best fitness: 0.3333333333333333
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G39 Best fitness: 0.3333333333333333
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G40 Best fitness: 0.3333333333333333
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G41 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G42 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G43 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G44 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G45 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G46 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G47 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G48 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G49 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G50 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G51 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G52 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G53 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G54 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:39 - G55 Best fitness: 0.5
+2018-04-15 04:26:28 INFO  ScheduleGA:56 - 
+2018-04-15 04:26:28 INFO  ScheduleGA:57 - Schedule found after 56 generations
+2018-04-15 04:26:28 INFO  ScheduleGA:58 - Fitness of final Schedule: 1.0
+2018-04-15 04:26:28 INFO  ScheduleGA:59 - Conflict: 0
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 1:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 2:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 3:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 4:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 5:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 6:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 7:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 8:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Monday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 9:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 10:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 11:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 12:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 13:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 14:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 15:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 16:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 17:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Monday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 18:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 19:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 20:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 21:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 22:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 23:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 24:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 25:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:26:28 INFO  ScheduleGA:74 - Class 26:
+2018-04-15 04:26:28 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:26:28 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:26:28 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:26:28 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:26:28 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:26:28 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G1 Best fitness: 0.08333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G2 Best fitness: 0.1
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G3 Best fitness: 0.1
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G4 Best fitness: 0.1
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G5 Best fitness: 0.1111111111111111
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G6 Best fitness: 0.1111111111111111
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G7 Best fitness: 0.125
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G8 Best fitness: 0.16666666666666666
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G9 Best fitness: 0.16666666666666666
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G10 Best fitness: 0.16666666666666666
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G11 Best fitness: 0.16666666666666666
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G12 Best fitness: 0.2
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G13 Best fitness: 0.2
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G14 Best fitness: 0.25
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G15 Best fitness: 0.25
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G16 Best fitness: 0.25
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G17 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G18 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G19 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G20 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G21 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G22 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G23 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G24 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G25 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G26 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G27 Best fitness: 0.3333333333333333
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G28 Best fitness: 0.5
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G29 Best fitness: 0.5
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G30 Best fitness: 0.5
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G31 Best fitness: 0.5
+2018-04-15 04:44:34 INFO  ScheduleGA:39 - G32 Best fitness: 0.5
+2018-04-15 04:44:34 INFO  ScheduleGA:56 - 
+2018-04-15 04:44:34 INFO  ScheduleGA:57 - Schedule found after 33 generations
+2018-04-15 04:44:34 INFO  ScheduleGA:58 - Fitness of final Schedule: 1.0
+2018-04-15 04:44:34 INFO  ScheduleGA:59 - Conflict: 0
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 1:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 2:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 3:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 4:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 5:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 6:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 7:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 8:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 9:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 10:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 11:
+2018-04-15 04:44:34 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:44:34 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:44:34 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:34 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:44:34 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:44:34 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:34 INFO  ScheduleGA:74 - Class 12:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 13:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 14:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 15:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Monday 13:00 - 15:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 16:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 17:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 18:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 19:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 20:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 21:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 22:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 23:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 24:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 25:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:44:35 INFO  ScheduleGA:74 - Class 26:
+2018-04-15 04:44:35 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:44:35 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:44:35 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:44:35 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:44:35 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:44:35 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G1 Best fitness: 0.07142857142857142
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G2 Best fitness: 0.1
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G3 Best fitness: 0.1
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G4 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G5 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G6 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G7 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G8 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G9 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G10 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G11 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G12 Best fitness: 0.14285714285714285
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G13 Best fitness: 0.16666666666666666
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G14 Best fitness: 0.16666666666666666
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G15 Best fitness: 0.25
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G16 Best fitness: 0.25
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G17 Best fitness: 0.25
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G18 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G19 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G20 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G21 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G22 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G23 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G24 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G25 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G26 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G27 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G28 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G29 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G30 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G31 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G32 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G33 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G34 Best fitness: 0.3333333333333333
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G35 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G36 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G37 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G38 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G39 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G40 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G41 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G42 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G43 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G44 Best fitness: 0.5
+2018-04-15 04:53:01 INFO  ScheduleGA:39 - G45 Best fitness: 0.5
+2018-04-15 04:53:02 INFO  ScheduleGA:39 - G46 Best fitness: 0.5
+2018-04-15 04:53:02 INFO  ScheduleGA:56 - 
+2018-04-15 04:53:02 INFO  ScheduleGA:57 - Schedule found after 47 generations
+2018-04-15 04:53:02 INFO  ScheduleGA:58 - Fitness of final Schedule: 1.0
+2018-04-15 04:53:02 INFO  ScheduleGA:59 - Conflict: 0
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 1:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 2:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 3:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 4:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 5:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 6:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 7:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 8:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 9:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 10:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 11:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 12:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 13:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 14:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 15:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 16:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 17:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 18:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 19:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 20:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 21:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 22:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 23:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 24:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 25:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 04:53:02 INFO  ScheduleGA:74 - Class 26:
+2018-04-15 04:53:02 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 04:53:02 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 04:53:02 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 04:53:02 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 04:53:02 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 04:53:02 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:47 INFO  ScheduleGA:39 - G1 Best fitness: 0.125
+2018-04-15 05:10:47 INFO  ScheduleGA:39 - G2 Best fitness: 0.125
+2018-04-15 05:10:47 INFO  ScheduleGA:39 - G3 Best fitness: 0.125
+2018-04-15 05:10:47 INFO  ScheduleGA:39 - G4 Best fitness: 0.125
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G5 Best fitness: 0.125
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G6 Best fitness: 0.14285714285714285
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G7 Best fitness: 0.14285714285714285
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G8 Best fitness: 0.14285714285714285
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G9 Best fitness: 0.14285714285714285
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G10 Best fitness: 0.14285714285714285
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G11 Best fitness: 0.14285714285714285
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G12 Best fitness: 0.14285714285714285
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G13 Best fitness: 0.16666666666666666
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G14 Best fitness: 0.16666666666666666
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G15 Best fitness: 0.2
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G16 Best fitness: 0.25
+2018-04-15 05:10:48 INFO  ScheduleGA:39 - G17 Best fitness: 0.25
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G18 Best fitness: 0.25
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G19 Best fitness: 0.25
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G20 Best fitness: 0.25
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G21 Best fitness: 0.25
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G22 Best fitness: 0.3333333333333333
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G23 Best fitness: 0.3333333333333333
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G24 Best fitness: 0.3333333333333333
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G25 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G26 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G27 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G28 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G29 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G30 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G31 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G32 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:39 - G33 Best fitness: 0.5
+2018-04-15 05:10:49 INFO  ScheduleGA:56 - 
+2018-04-15 05:10:49 INFO  ScheduleGA:57 - Schedule found after 34 generations
+2018-04-15 05:10:49 INFO  ScheduleGA:58 - Fitness of final Schedule: 1.0
+2018-04-15 05:10:49 INFO  ScheduleGA:59 - Conflict: 0
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 1:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 2:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 3:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 4:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 5:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 6:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 7:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 8:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Monday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 9:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 10:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 11:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 12:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 13:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 14:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 15:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 16:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 17:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 18:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 19:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 20:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 21:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Monday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 22:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 23:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 24:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 25:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:10:49 INFO  ScheduleGA:74 - Class 26:
+2018-04-15 05:10:49 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:10:49 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 05:10:49 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:10:49 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:10:49 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 05:10:49 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:11:42 INFO  ScheduleGA:39 - G1 Best fitness: 0.1
+2018-04-15 05:11:44 INFO  ScheduleGA:39 - G2 Best fitness: 0.14285714285714285
+2018-04-15 05:11:45 INFO  ScheduleGA:39 - G3 Best fitness: 0.14285714285714285
+2018-04-15 05:11:46 INFO  ScheduleGA:39 - G4 Best fitness: 0.14285714285714285
+2018-04-15 05:11:47 INFO  ScheduleGA:39 - G5 Best fitness: 0.14285714285714285
+2018-04-15 05:11:48 INFO  ScheduleGA:39 - G6 Best fitness: 0.14285714285714285
+2018-04-15 05:11:49 INFO  ScheduleGA:39 - G7 Best fitness: 0.16666666666666666
+2018-04-15 05:11:50 INFO  ScheduleGA:39 - G8 Best fitness: 0.16666666666666666
+2018-04-15 05:11:51 INFO  ScheduleGA:39 - G9 Best fitness: 0.16666666666666666
+2018-04-15 05:11:52 INFO  ScheduleGA:39 - G10 Best fitness: 0.16666666666666666
+2018-04-15 05:11:52 INFO  ScheduleGA:39 - G11 Best fitness: 0.2
+2018-04-15 05:11:53 INFO  ScheduleGA:39 - G12 Best fitness: 0.2
+2018-04-15 05:11:54 INFO  ScheduleGA:39 - G13 Best fitness: 0.3333333333333333
+2018-04-15 05:11:55 INFO  ScheduleGA:39 - G14 Best fitness: 0.3333333333333333
+2018-04-15 05:11:56 INFO  ScheduleGA:39 - G15 Best fitness: 0.3333333333333333
+2018-04-15 05:11:57 INFO  ScheduleGA:39 - G16 Best fitness: 0.3333333333333333
+2018-04-15 05:11:57 INFO  ScheduleGA:39 - G17 Best fitness: 0.3333333333333333
+2018-04-15 05:11:58 INFO  ScheduleGA:39 - G18 Best fitness: 0.3333333333333333
+2018-04-15 05:11:59 INFO  ScheduleGA:39 - G19 Best fitness: 0.3333333333333333
+2018-04-15 05:12:00 INFO  ScheduleGA:39 - G20 Best fitness: 0.5
+2018-04-15 05:12:01 INFO  ScheduleGA:39 - G21 Best fitness: 0.5
+2018-04-15 05:12:02 INFO  ScheduleGA:39 - G22 Best fitness: 0.5
+2018-04-15 05:12:02 INFO  ScheduleGA:39 - G23 Best fitness: 0.5
+2018-04-15 05:12:12 INFO  ScheduleGA:39 - G1 Best fitness: 0.08333333333333333
+2018-04-15 05:12:12 INFO  ScheduleGA:39 - G2 Best fitness: 0.1
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G3 Best fitness: 0.1
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G4 Best fitness: 0.1
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G5 Best fitness: 0.1111111111111111
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G6 Best fitness: 0.1111111111111111
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G7 Best fitness: 0.125
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G8 Best fitness: 0.125
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G9 Best fitness: 0.125
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G10 Best fitness: 0.125
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G11 Best fitness: 0.2
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G12 Best fitness: 0.2
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G13 Best fitness: 0.2
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G14 Best fitness: 0.2
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G15 Best fitness: 0.2
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G16 Best fitness: 0.2
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G17 Best fitness: 0.2
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G18 Best fitness: 0.25
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G19 Best fitness: 0.25
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G20 Best fitness: 0.25
+2018-04-15 05:12:13 INFO  ScheduleGA:39 - G21 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G22 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G23 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G24 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G25 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G26 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G27 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G28 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G29 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G30 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G31 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G32 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G33 Best fitness: 0.3333333333333333
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G34 Best fitness: 0.5
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G35 Best fitness: 0.5
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G36 Best fitness: 0.5
+2018-04-15 05:12:14 INFO  ScheduleGA:39 - G37 Best fitness: 0.5
+2018-04-15 05:12:14 INFO  ScheduleGA:56 - 
+2018-04-15 05:12:14 INFO  ScheduleGA:57 - Schedule found after 38 generations
+2018-04-15 05:12:14 INFO  ScheduleGA:58 - Fitness of final Schedule: 1.0
+2018-04-15 05:12:14 INFO  ScheduleGA:59 - Conflict: 0
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 1:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 2:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Shillman	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 3:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 1	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 4:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 5:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 6:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Monday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 7:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 2	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 8:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 9:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Thursday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 10:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 3	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 11:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 12:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 4	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 13:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 14:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 15:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 5	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Friday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 16:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Friday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 17:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 18:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Thermodynamics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 6	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Thursday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 19:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Thursday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 20:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 7	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Friday 11:00 - 13:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 21:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Algorithms	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 22:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 8	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Ell Hall	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Monday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 23:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Computer Science	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mrs G Kalra	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 24:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Big Data	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 9	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Mr R Ponting	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 25:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Operating System	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: East Village	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr N Sharma	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Monday 9:00 - 11:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 05:12:14 INFO  ScheduleGA:74 - Class 26:
+2018-04-15 05:12:14 INFO  ScheduleGA:75 - Course: Engineering Ethics	
+2018-04-15 05:12:14 INFO  ScheduleGA:76 - Student Group: 10	
+2018-04-15 05:12:14 INFO  ScheduleGA:77 - Class Room: Snell Engineering	
+2018-04-15 05:12:14 INFO  ScheduleGA:78 - Professor: Dr R Thomsan	
+2018-04-15 05:12:14 INFO  ScheduleGA:79 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 05:12:14 INFO  ScheduleGA:80 - -----------------------------------------------------------
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G1 Best fitness: 0.09090909090909091
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G2 Best fitness: 0.09090909090909091
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G3 Best fitness: 0.09090909090909091
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G4 Best fitness: 0.14285714285714285
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G5 Best fitness: 0.16666666666666666
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G6 Best fitness: 0.16666666666666666
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G7 Best fitness: 0.16666666666666666
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G8 Best fitness: 0.16666666666666666
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G9 Best fitness: 0.16666666666666666
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G10 Best fitness: 0.25
+2018-04-15 08:22:43 INFO  ScheduleGA:37 - G11 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G12 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G13 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G14 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G15 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G16 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G17 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G18 Best fitness: 0.25
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G19 Best fitness: 0.5
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G20 Best fitness: 0.5
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G21 Best fitness: 0.5
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G22 Best fitness: 0.5
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G23 Best fitness: 0.5
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G24 Best fitness: 0.5
+2018-04-15 08:22:44 INFO  ScheduleGA:37 - G25 Best fitness: 0.5
+2018-04-15 08:22:44 INFO  ScheduleGA:54 - 
+2018-04-15 08:22:44 INFO  ScheduleGA:55 - Schedule found after 26 generations
+2018-04-15 08:22:44 INFO  ScheduleGA:56 - Fitness of final Schedule: 1.0
+2018-04-15 08:22:44 INFO  ScheduleGA:57 - Conflict: 0
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 1:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 1	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 2:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 1	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 3:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 1	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Shillman	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr R Thomsan	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Monday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 4:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Algorithms	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 5:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Monday 13:00 - 15:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 6:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Monday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 7:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Big Data	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Monday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 8:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 3	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 9:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 3	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr R Thomsan	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 10:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 3	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Thursday 13:00 - 15:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 11:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 4	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Friday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 12:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 4	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 13:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Algorithms	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 5	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr R Thomsan	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Friday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 14:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 5	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 15:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 5	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Friday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 16:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 6	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Friday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 17:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 6	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr R Thomsan	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 18:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 6	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Thursday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 19:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 7	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 20:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 7	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Monday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 21:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Algorithms	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 8	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Monday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 22:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Big Data	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 8	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 23:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 9	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 24:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Big Data	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 9	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Monday 13:00 - 15:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 25:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 10	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Thursday 9:00 - 11:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:22:44 INFO  ScheduleGA:72 - Class 26:
+2018-04-15 08:22:44 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:22:44 INFO  ScheduleGA:74 - Student Group: 10	
+2018-04-15 08:22:44 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:22:44 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:22:44 INFO  ScheduleGA:77 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 08:22:44 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:10 INFO  ScheduleGA:37 - G1 Best fitness: 0.09090909090909091
+2018-04-15 08:31:10 INFO  ScheduleGA:37 - G2 Best fitness: 0.1
+2018-04-15 08:31:10 INFO  ScheduleGA:37 - G3 Best fitness: 0.1111111111111111
+2018-04-15 08:31:10 INFO  ScheduleGA:37 - G4 Best fitness: 0.1111111111111111
+2018-04-15 08:31:10 INFO  ScheduleGA:37 - G5 Best fitness: 0.1111111111111111
+2018-04-15 08:31:10 INFO  ScheduleGA:37 - G6 Best fitness: 0.1111111111111111
+2018-04-15 08:31:10 INFO  ScheduleGA:37 - G7 Best fitness: 0.125
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G8 Best fitness: 0.125
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G9 Best fitness: 0.16666666666666666
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G10 Best fitness: 0.16666666666666666
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G11 Best fitness: 0.16666666666666666
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G12 Best fitness: 0.16666666666666666
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G13 Best fitness: 0.16666666666666666
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G14 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G15 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G16 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G17 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G18 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G19 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G20 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G21 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G22 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G23 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G24 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G25 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G26 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G27 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G28 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G29 Best fitness: 0.25
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G30 Best fitness: 0.3333333333333333
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G31 Best fitness: 0.3333333333333333
+2018-04-15 08:31:11 INFO  ScheduleGA:37 - G32 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G33 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G34 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G35 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G36 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G37 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G38 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G39 Best fitness: 0.3333333333333333
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G40 Best fitness: 0.5
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G41 Best fitness: 0.5
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G42 Best fitness: 0.5
+2018-04-15 08:31:12 INFO  ScheduleGA:37 - G43 Best fitness: 0.5
+2018-04-15 08:31:12 INFO  ScheduleGA:54 - 
+2018-04-15 08:31:12 INFO  ScheduleGA:55 - Schedule found after 44 generations
+2018-04-15 08:31:12 INFO  ScheduleGA:56 - Fitness of final Schedule: 1.0
+2018-04-15 08:31:12 INFO  ScheduleGA:57 - Conflict: 0
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 1:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 1	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Shillman	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Thursday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 2:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 1	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Friday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 3:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 1	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Thursday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 4:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Algorithms	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr R Thomsan	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Friday 11:00 - 13:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 5:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Thursday 11:00 - 13:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 6:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Thursday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 7:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Big Data	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 2	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 8:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 3	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Tuesday 11:00 - 13:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 9:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 3	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Wednesday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 10:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 3	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Thursday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 11:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 4	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Monday 11:00 - 13:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 12:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 4	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 13:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Algorithms	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 5	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr R Thomsan	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Tuesday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 14:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 5	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Thursday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 15:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 5	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Friday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 16:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 6	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Friday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 17:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 6	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Monday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 18:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Thermodynamics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 6	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Wednesday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 19:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 7	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Monday 11:00 - 13:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 20:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 7	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Tuesday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 21:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Algorithms	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 8	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Monday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 22:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Big Data	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 8	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Ell Hall	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 23:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Computer Science	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 9	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: East Village	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr N Sharma	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Friday 13:00 - 15:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 24:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Big Data	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 9	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mr R Ponting	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Wednesday 11:00 - 13:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 25:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Operating System	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 10	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Mrs G Kalra	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Monday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
+2018-04-15 08:31:12 INFO  ScheduleGA:72 - Class 26:
+2018-04-15 08:31:12 INFO  ScheduleGA:73 - Course: Engineering Ethics	
+2018-04-15 08:31:12 INFO  ScheduleGA:74 - Student Group: 10	
+2018-04-15 08:31:12 INFO  ScheduleGA:75 - Class Room: Snell Engineering	
+2018-04-15 08:31:12 INFO  ScheduleGA:76 - Professor: Dr R Thomsan	
+2018-04-15 08:31:12 INFO  ScheduleGA:77 - Time: Friday 9:00 - 11:00	
+2018-04-15 08:31:12 INFO  ScheduleGA:78 - -----------------------------------------------------------
