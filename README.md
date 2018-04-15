@@ -7,7 +7,7 @@ The respository contains:
 
 1> project code in the src folder.
 
-2> A detailed report on this project and little basics about genetic algorithms in file Project Report- Class Scheduler using GA.pdf
+2> A detailed report on this project and little basics about genetic algorithms in file named-- Project Report- Class Scheduler using GA.pdf
 
-3> A short presentation for to get the understating of working of projects with code and ouput snippets.
+3> A short presentation for to get the understating of working of projects with code and ouput snippets in file named-- Project Presentation.pptx
 
