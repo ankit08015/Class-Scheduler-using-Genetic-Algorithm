@@ -1,4 +1,4 @@
-**[Class Scheduler using Genetic Algorithm]{.underline}**
+*[Class Scheduler using Genetic Algorithm]{.underline}*
 
 **[1. Introduction]{.underline}**
 
@@ -27,8 +27,7 @@ enough space to host a given class etc.
 Soft constraints can be preferred time slot for professors to take class
 or preferred class room of a professor.
 
-![GA Motivation](media/image1.png){width="6.533333333333333in"
-height="3.686111111111111in"}**[\
+![GA Motivation](media/image1.png)**[
 ]{.underline}**
 
 **[2. Problem Statement]{.underline}**
