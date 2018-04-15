@@ -31,7 +31,7 @@ enough space to host a given class etc.
 Soft constraints can be preferred time slot for professors to take class
 or preferred class room of a professor.
 
-![GA Motivation](media/image1.png)
+![GA Motivation](media/cscross.png)
 
 **2. Problem Statement**
 
