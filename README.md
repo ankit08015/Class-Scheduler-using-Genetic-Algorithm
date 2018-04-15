@@ -5,7 +5,7 @@ Topic: Class Scheduler using Genetic Algorithm.
 
 The respository contains:
 
-1> Project source code in the src folder.
+1> Project source code in the project/src folder.
 
 2> A detailed report of this project and including basics about genetic algorithms in file named--> Project Report- Class Scheduler using GA.pdf
 
