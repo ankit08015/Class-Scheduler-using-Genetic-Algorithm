@@ -1,10 +1,10 @@
-***[Project: Class Scheduler using Genetic Algorithm]{.underline}***
+****Project: Class Scheduler using Genetic Algorithm****
 
-**Team---INFO6205\_303**
+***Team- INFO6205_303***
 
-**Team Member- Ankit Yadav**
+***Team Member- Ankit Yadav***
 
-*1. Introduction*
+**1. Introduction**
 
 Genetic algorithm is one of the most important tool for making computer
 evolve to solve a specific type of problems.
@@ -31,11 +31,9 @@ enough space to host a given class etc.
 Soft constraints can be preferred time slot for professors to take class
 or preferred class room of a professor.
 
-![GA Motivation](media/image1.png){width="6.533333333333333in"
-height="3.686111111111111in"}**[\
-]{.underline}**
+![GA Motivation](media/image1.png)
 
-*2. Problem Statement*
+**2. Problem Statement**
 
 The class scheduling problem that we will be solving is equivalent to a
 college class scheduler which will make a schedule based on available
@@ -60,12 +58,12 @@ scheduling application:
 
 -   Classrooms must be big enough to accommodate the student group
 
-***[Note:]{.underline}** To optimize my solution I have used **Parallel
+***Note:** To optimize my solution I have used **Parallel
 Processing** to calculate fitness functions and used **Hash Table** to
 store the values of fitness function to improve the running time of my
 application.*
 
-*3. Impementation*
+**3. Impementation**
 
 Project source code in the *project/src* folder.
 
